@@ -1,6 +1,6 @@
 # Source pour mon site web professionnel
 
-Ceci est la source [blogdown](https://bookdown.org/yihui/blogdown/) pour construire https://USERNAME.github.io avec [hugo](https://gohugo.io) dans le dépôt Github `USERNAME.github.io`.
+Ceci est la source [blogdown](https://bookdown.org/yihui/blogdown/) pour construire https://USERNAME.github.io avec [hugo](https://gohugo.io) dans le dépôt Github `elisa-pellegrino.github.io`.
 
 
 ## Procédure
