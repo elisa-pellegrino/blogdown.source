@@ -34,4 +34,4 @@ weight = 5
 
 # About Me
 
-I am student at the University of Mons, Belgium... [tell here a little bit about you, using Markdown formatting]
+I am a student at University of Mons, located in Belgium. 
