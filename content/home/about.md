@@ -34,4 +34,4 @@ weight = 5
 
 # About Me
 
-I am a student at University of Mons, located in Belgium. 
+# I am a student at the University of Mons located in Belgium
