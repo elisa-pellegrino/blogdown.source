@@ -11,7 +11,7 @@ weight = 5
 [interests]
   interests = [
     "Biology",
-    "Understanding of different types of organism"
+    "Understanding of different types of organism",
     "Travelling around the world"
   ]
 
