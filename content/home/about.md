@@ -11,7 +11,8 @@ weight = 5
 [interests]
   interests = [
     "Biology",
-    "..."
+    "Understanding of different types of organism"
+    "Travelling around the world"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -34,4 +35,4 @@ weight = 5
 
 # About Me
 
-# I am a student at the University of Mons located in Belgium
+I come from Italy, I used to live in a little village called Pomezia, not so far away from Rome. I came in Belgium to study, and the mais reason is that the school education is way more better here.
