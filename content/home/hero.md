@@ -27,7 +27,7 @@ weight = 3
 
 Elisa Pellegrino
 <br>
-<small>My name is Elisa, I am italian but I live in Mons (Belgium). I am a at UMONS biological sciences. </small>
+<small>My name is Elisa, I am italian but I live in Mons (Belgium). I am a student at UMONS biological sciences. </small>
 <br><br>
 
 <script type="text/javascript">

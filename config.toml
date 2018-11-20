@@ -34,11 +34,11 @@ defaultContentLanguageInSubdir = false
 [params]
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `coffee`, or `dark`.
-  color_theme = "default"
+  color_theme = "dark"
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
-  font = "default"
+  font = "classic"
 
   # Your details.
   name = "Elisa Pellegrino"
@@ -51,9 +51,9 @@ defaultContentLanguageInSubdir = false
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "elisa.pellegrino@student.umons.ac.be"
-  address = "Plaine de Nimy/Pentagone 3D, 8 avenue du champ de mars, 7000 Mons, Belgium"
+  address = "Plaine de Nimy, 8 avenue du champ de mars, 7000 Mons, Belgium"
   office_hours = "Please, send me an email for appointment"
-  phone = "+32/0XX.XX.XX.XX"
+  phone = "+39/3409557905"
   skype = ""
   telegram = ""
 
