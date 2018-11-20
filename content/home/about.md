@@ -27,12 +27,12 @@ weight = 5
 #  year = 2021
 
 [[education.courses]]
-  course = "My orientation"
-  institution = "My high school"
+  course = "Sciences biologiues at UMONS"
+  institution = "High school, Ecole internationale du SHAPE"
   year = 2018
 
 +++
 
 # About Me
 
-I come from Italy, I used to live in a little village called Pomezia, not so far away from Rome. I came in Belgium to study, and the mais reason is that the school education is way more better here.
+I am studying at UMONS (Begium). I am working to to et a biology degree. 
