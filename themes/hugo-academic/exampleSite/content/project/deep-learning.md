@@ -23,7 +23,7 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "headers/immagine mia 1.jpg"
+image = "headers/main-header.jpg"
 caption = "My caption :smile:"
 
 +++
