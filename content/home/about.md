@@ -35,4 +35,4 @@ weight = 5
 
 # About Me
 
-I am studying at UMONS (Begium). I am working to to et a biology degree. 
+I am a student at UMONS, Sciences biologiques. 
