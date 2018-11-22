@@ -9,8 +9,8 @@ summary = """
 """
 
 [header]
-image = "headers/secondary-header.jpg"
-caption = "Image credit: **Derek Thompson** on Unsplash"
+image = "image_meduse.jpg"
+caption = "Image credit: ** Wopke** on Pexels"
 preview = false
 
 +++
