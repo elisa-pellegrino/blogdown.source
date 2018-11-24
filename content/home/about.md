@@ -11,8 +11,9 @@ weight = 5
 [interests]
   interests = [
     "Biology",
-    "Understanding of different types of organism",
-    "Travelling around the world"
+    "Scuba diving",
+    "Travels around the world"
+    "Botany"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -28,7 +29,7 @@ weight = 5
 
 [[education.courses]]
   course = "Sciences biologiues at UMONS"
-  institution = "High school, Ecole internationale du SHAPE"
+  institution = "High school, Ecole internationale du SHAP"
   year = 2018
 
 +++
