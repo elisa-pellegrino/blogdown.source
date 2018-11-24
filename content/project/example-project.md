@@ -9,7 +9,7 @@ title = "My project"
 summary = "A short summary of my project."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "project.jpg"
+image_preview = "image_plantes.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

@@ -12,7 +12,7 @@ weight = 5
   interests = [
     "Biology",
     "Scuba diving",
-    "Travels around the world"
+    "Travels around the world",
     "Botany"
   ]
 
@@ -29,7 +29,7 @@ weight = 5
 
 [[education.courses]]
   course = "Sciences biologiues at UMONS"
-  institution = "High school, Ecole internationale du SHAP"
+  institution = "University of Mons"
   year = 2018
 
 +++
