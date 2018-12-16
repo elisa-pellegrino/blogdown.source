@@ -6,7 +6,8 @@ date = "2018-09-24"
 title = "My project"
 
 # Project summary to display on homepage.
-summary = "A short summary of my project."
+summary = "I do not have a precise idea of what my projects will be as soon as I will finish university degree. I hope I will end up finding something that I am passionate about.
+Right now I really want to explore the world. To do so I recently added a journey to my plans, right after the ending of Jenuary's exam session. "
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "image_plantes.jpg"
